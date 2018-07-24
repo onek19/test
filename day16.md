@@ -305,3 +305,5 @@ public class GiftDelete {
 \* prepareStatement
 >사용자 입력 값으로 쿼리실행 할때 사용함<br>
 하나의 객체로 여러번의 쿼리를 실행할 수 있음
+
+fsdfslkmflk
